@@ -1,6 +1,8 @@
 Zadanie
 
-Jednoduché skladové hospodárstvo - laravel
+Technoligia Laravel 
+
+Jednoduché skladové hospodárstvo
 
 Stránka/aplikácia kde používateľ vie zadať ID produktu, počet kusov a
 cenu za kus a či sa jedná o príjem alebo výdaj tovaru
