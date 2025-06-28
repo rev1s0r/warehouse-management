@@ -1,10 +1,17 @@
-Zadanie
+Assignment
 
-Technoligia Laravel 
+Technology: Laravel
 
-Jednoduché skladové hospodárstvo
+Simple Inventory Management System
 
-Stránka/aplikácia kde používateľ vie zadať ID produktu, počet kusov a
-cenu za kus a či sa jedná o príjem alebo výdaj tovaru
-Stránka mu zobrazí aktuálnu skladovu zásobu, cenu za kus a celkovú cenu
-tovaru na sklade, po položkách (ID produktu),
+A page/application where the user can enter:
+
+Product ID
+
+Quantity
+
+Price per unit
+
+Whether it is a stock entry (inbound) or stock release (outbound)
+
+The page should display the current stock levels, price per unit, and total value of goods in stock, per item (by Product ID).
